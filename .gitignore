@@ -1,2 +1,5 @@
 react-docker/node_modules/
 react-docker/build/
+
+vite-project/node_modules/
+vite-project/build/
