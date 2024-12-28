@@ -3,3 +3,6 @@ react-docker/build/
 
 vite-project/node_modules/
 vite-project/build/
+
+mern-docker/backend/node_modules
+mern-docker/frontend/node_modules
